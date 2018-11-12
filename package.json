@@ -1,0 +1,19 @@
+{
+  "name": "mockproject",
+  "version": "1.0.0",
+  "description": "test project with useful tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heartpolik/mockProject.git"
+  },
+  "author": "polik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heartpolik/mockProject/issues"
+  },
+  "homepage": "https://github.com/heartpolik/mockProject#readme"
+}
